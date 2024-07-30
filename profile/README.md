@@ -5,7 +5,7 @@ For more information about us, please [visit artefactual.com](https://www.artefa
 ## Contributing
 
 We are actively developing the [Contributors portal](https://contributors.artefactual.com) to host guidelines and information
-related to contributing to AtoM, Archivematica, and the dependencies which we maintain.
+related to contributing to the projects that Artefactual maintains.
 
 ## Related organizations
 
